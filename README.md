@@ -184,8 +184,7 @@ print(le.inverse_transform(x_single_prediction))
 ```
 
 ## Dataset Information
-![Uploading Screenshot 2023-08-27 213324.png…]()
-
+![Screenshot 2023-08-27 213324](https://github.com/ManojTella/nn-classification/assets/94883876/72620b0c-a361-4673-862e-e21bae8c74cb)
 
 
 ## OUTPUT
